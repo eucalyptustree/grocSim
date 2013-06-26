@@ -12,11 +12,13 @@ class shopper:
     def tick(self):
         self.waitTime +=1
     def checkout(self):
-        
-            
+      pass
+
+
 
 class checkoutLine:
     def __init__(self):
         pass
-    
-    
+
+
+print 'hello world'
